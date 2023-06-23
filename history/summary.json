@@ -293,19 +293,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pterodactyl-node",
     "status": "up",
-    "uptime": "10.70%",
-    "uptimeDay": "10.70%",
-    "uptimeWeek": "10.70%",
-    "uptimeMonth": "10.70%",
-    "uptimeYear": "10.70%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 392,
     "timeDay": 392,
     "timeWeek": 392,
     "timeMonth": 392,
     "timeYear": 392,
-    "dailyMinutesDown": {
-      "2023-06-23": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "qBittorrent",

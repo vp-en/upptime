@@ -37,6 +37,8 @@ sites:
     url: $SECRET_SITE016
   - name: Pterodactyl Node
     url: $SECRET_SITE017
+    expectedStatusCodes:
+      - 401
   - name: qBittorrent
     url: $SECRET_SITE018
   - name: Radarr

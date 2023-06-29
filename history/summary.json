@@ -58,18 +58,20 @@
     "url": "$SECRET_SITE004",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chatbot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 399,
-    "timeDay": 297,
-    "timeWeek": 399,
-    "timeMonth": 399,
-    "timeYear": 399,
-    "dailyMinutesDown": {}
+    "time": 402,
+    "timeDay": 361,
+    "timeWeek": 402,
+    "timeMonth": 402,
+    "timeYear": 402,
+    "dailyMinutesDown": {
+      "2023-06-29": 0
+    }
   },
   {
     "name": "Dashdot",

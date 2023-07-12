@@ -4,10 +4,10 @@
     "url": "$SECRET_SITE001",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 676,
@@ -15,17 +15,19 @@
     "timeWeek": 787,
     "timeMonth": 676,
     "timeYear": 676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 1
+    }
   },
   {
     "name": "Bazarr",
     "url": "$SECRET_SITE002",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bazarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 593,
@@ -33,17 +35,19 @@
     "timeWeek": 512,
     "timeMonth": 593,
     "timeYear": 593,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 1
+    }
   },
   {
     "name": "Bazarr4K",
     "url": "$SECRET_SITE003",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bazarr4-k",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 403,
@@ -51,25 +55,28 @@
     "timeWeek": 446,
     "timeMonth": 403,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 1
+    }
   },
   {
     "name": "Chatbot",
     "url": "$SECRET_SITE004",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chatbot",
-    "status": "up",
-    "uptime": "85.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "74.79%",
-    "uptimeMonth": "85.84%",
-    "uptimeYear": "85.84%",
+    "status": "down",
+    "uptime": "85.86%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "74.78%",
+    "uptimeMonth": "85.86%",
+    "uptimeYear": "85.86%",
     "time": 623,
     "timeDay": 478,
     "timeWeek": 632,
     "timeMonth": 623,
     "timeYear": 623,
     "dailyMinutesDown": {
+      "2023-07-12": 1,
       "2023-07-10": 541,
       "2023-07-09": 998,
       "2023-07-07": 1002,
@@ -84,10 +91,10 @@
     "url": "$SECRET_SITE005",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dashdot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 424,
@@ -95,17 +102,19 @@
     "timeWeek": 453,
     "timeMonth": 424,
     "timeYear": 424,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 1
+    }
   },
   {
     "name": "Gotify",
     "url": "$SECRET_SITE006",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gotify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 412,
@@ -113,17 +122,19 @@
     "timeWeek": 440,
     "timeMonth": 412,
     "timeYear": 412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 1
+    }
   },
   {
     "name": "Homepage (NSCBOX)",
     "url": "$SECRET_SITE007",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "homepage-nscbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 739,
@@ -131,17 +142,19 @@
     "timeWeek": 805,
     "timeMonth": 739,
     "timeYear": 739,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 1
+    }
   },
   {
     "name": "Komga",
     "url": "$SECRET_SITE008",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "komga",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 452,
@@ -149,17 +162,19 @@
     "timeWeek": 518,
     "timeMonth": 452,
     "timeYear": 452,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 1
+    }
   },
   {
     "name": "Lavalink",
     "url": "$SECRET_SITE009",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lavalink",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 578,
@@ -167,7 +182,9 @@
     "timeWeek": 865,
     "timeMonth": 578,
     "timeYear": 578,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 1
+    }
   },
   {
     "name": "MusicBot 01 (Carlos)",
@@ -175,18 +192,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "music-bot-01-carlos",
     "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "97.12%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.92%",
+    "uptime": "98.75%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "98.75%",
     "time": 577,
     "timeDay": 518,
     "timeWeek": 618,
     "timeMonth": 577,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2023-07-12": 0,
+      "2023-07-12": 46,
       "2023-07-10": 22,
       "2023-07-06": 268
     }
@@ -196,9 +213,9 @@
     "url": "$SECRET_SITE011",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "music-bot-02-red-army",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.34%",
     "uptimeMonth": "99.00%",
     "uptimeYear": "99.00%",
@@ -208,6 +225,7 @@
     "timeMonth": 574,
     "timeYear": 574,
     "dailyMinutesDown": {
+      "2023-07-12": 1,
       "2023-07-06": 268
     }
   },
@@ -216,9 +234,9 @@
     "url": "$SECRET_SITE012",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mylar3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.34%",
     "uptimeMonth": "99.00%",
     "uptimeYear": "99.00%",
@@ -228,6 +246,7 @@
     "timeMonth": 191,
     "timeYear": 191,
     "dailyMinutesDown": {
+      "2023-07-12": 1,
       "2023-07-06": 268
     }
   },
@@ -236,10 +255,10 @@
     "url": "$SECRET_SITE013",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "notifiarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 478,
@@ -247,17 +266,19 @@
     "timeWeek": 572,
     "timeMonth": 478,
     "timeYear": 478,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 1
+    }
   },
   {
     "name": "Overseerr",
     "url": "$SECRET_SITE014",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "overseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1022,
@@ -265,16 +286,18 @@
     "timeWeek": 1129,
     "timeMonth": 1022,
     "timeYear": 1022,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 1
+    }
   },
   {
     "name": "Prowlarr",
     "url": "$SECRET_SITE015",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prowlarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -283,16 +306,18 @@
     "timeWeek": 586,
     "timeMonth": 549,
     "timeYear": 549,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 0
+    }
   },
   {
     "name": "Pterodactyl Panel",
     "url": "$SECRET_SITE016",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pterodactyl-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -301,16 +326,18 @@
     "timeWeek": 567,
     "timeMonth": 484,
     "timeYear": 484,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 0
+    }
   },
   {
     "name": "Pterodactyl Node",
     "url": "$SECRET_SITE017",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pterodactyl-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -319,16 +346,18 @@
     "timeWeek": 425,
     "timeMonth": 384,
     "timeYear": 384,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 0
+    }
   },
   {
     "name": "qBittorrent",
     "url": "$SECRET_SITE018",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "q-bittorrent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -337,16 +366,18 @@
     "timeWeek": 428,
     "timeMonth": 403,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 0
+    }
   },
   {
     "name": "Radarr",
     "url": "$SECRET_SITE019",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -355,16 +386,18 @@
     "timeWeek": 626,
     "timeMonth": 538,
     "timeYear": 538,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 0
+    }
   },
   {
     "name": "Radarr4K",
     "url": "$SECRET_SITE020",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radarr4-k",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -373,16 +406,18 @@
     "timeWeek": 588,
     "timeMonth": 575,
     "timeYear": 575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 0
+    }
   },
   {
     "name": "SABnzbd",
     "url": "$SECRET_SITE021",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sa-bnzbd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -391,14 +426,16 @@
     "timeWeek": 577,
     "timeMonth": 526,
     "timeYear": 526,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-12": 0
+    }
   },
   {
     "name": "SABnzbd (Comics)",
     "url": "$SECRET_SITE022",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sa-bnzbd-comics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -416,7 +453,7 @@
     "url": "$SECRET_SITE023",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -434,7 +471,7 @@
     "url": "$SECRET_SITE024",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sonarr4-k",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -452,7 +489,7 @@
     "url": "$SECRET_SITE025",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tautulli",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -470,7 +507,7 @@
     "url": "$SECRET_SITE026",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "whisparr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -488,7 +525,7 @@
     "url": "$SECRET_SITE027",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wizarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -506,7 +543,7 @@
     "url": "$SECRET_SITE028",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wrapperr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
